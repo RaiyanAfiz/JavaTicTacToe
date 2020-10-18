@@ -3,7 +3,6 @@
  * 
  * @author: Raiyan Afiz
  * @date: Oct 17, 2020
- * @SID: 105074478
  */
 
 public class TicTacToe {
