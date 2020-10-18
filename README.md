@@ -1,2 +1,2 @@
 # JavaTicTacToe
-A tic tac toe game
+A tic tac toe game currently under devlopment
