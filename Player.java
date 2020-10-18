@@ -1,8 +1,9 @@
 /**
- *
+ * An abstract player class
+ * 
  * @author: Raiyan Afiz
- * @date: December 1, 2019
- * @SID: 105074478  
+ * @date: Oct 17, 2020
+ * @SID: 105074478
  */
 public abstract class Player {
 	int playerX = 1;
